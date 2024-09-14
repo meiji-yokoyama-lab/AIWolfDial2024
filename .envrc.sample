@@ -1,0 +1,5 @@
+export PYTHONPATH=".:$PYTHONPATH"
+export OPENAI_API_KEY="xxxxxxx"
+export OPENAI_ORG_ID="zzzzzz"
+export GOOGLE_API_KEY="yyyyy"
+export HUGGING_FACE_TOKEN="wwwwww"
