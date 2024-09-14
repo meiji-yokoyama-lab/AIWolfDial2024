@@ -1,11 +1,11 @@
 # NLP-Wolf
 
-[ [**English**](./README.en.md) | 日本語 ]
+[ 日本語 | [**English**](./README.en.md) ]
 
 
 ## 参考
 
-本プロジェクトは`https://github.com/aiwolfdial/AIWolfNLAgentPython`をベースに作成されています。
+本プロジェクトは<https://github.com/aiwolfdial/AIWolfNLAgentPython>をベースに作成されています。
 
 
 ## セットアップ
@@ -53,7 +53,7 @@ python3 src/agent/multiprocess.py
 
 ## 対戦サーバの起動
 
-サーバは`https://github.com/aiwolfdial/AIWolfNLGameServer`を利用してください。
+サーバは<https://github.com/aiwolfdial/AIWolfNLGameServer>を利用してください。
 
 サーバからクライアントに接続する自己対戦モードで実行してください。
 

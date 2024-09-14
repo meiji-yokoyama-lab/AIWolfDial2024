@@ -1,11 +1,11 @@
 # NLP-Wolf
 
-[ English | [**日本語**](./README.md) ]
+[ [**日本語**](./README.md) | English ]
 
 
 ## Reference
 
-This project is based on `https://github.com/aiwolfdial/AIWolfNLAgentPython`.
+This project is based on <https://github.com/aiwolfdial/AIWolfNLAgentPython>.
 
 
 ## Before you run
@@ -54,7 +54,7 @@ python3 src/agent/multiprocess.py
 
 ## Activate the Server
 
-Servers should use `https://github.com/aiwolfdial/AIWolfNLGameServer`.
+Servers should use <https://github.com/aiwolfdial/AIWolfNLGameServer>.
 
 Run in self-play method, connecting from the server to the client.
 
